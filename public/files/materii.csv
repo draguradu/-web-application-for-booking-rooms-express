@@ -1,0 +1,371 @@
+id_materie,materie,an,semestru,specializarea,departament
+1,Algebra si geometrie,1,1,IS,Matematica
+2,Analiza Matematica,1,1,IS,Matematica
+3,Engleza,1,1,IS,Comunicare si Limbi Straine
+4,Fizica,1,1,IS,Bazele Fizice ale Ingineriei
+5,Franceza,1,1,IS,Comunicare si Limbi Straine
+6,Fundamente de inginerie mecanica si robotica,1,1,IS,Mecanica
+7,Germana,1,1,IS,Comunicare si Limbi Straine
+8,Logica si structuri de date,1,1,IS,Automatica si Informatica Aplicata
+9,Programarea calculatoarelor,1,1,IS,Automatica si Informatica Aplicata
+10,Arhitectura calculatoarelor,2,1,IS,Automatica si Informatica Aplicata
+11,Comunicare,2,1,IS,Comunicare si Limbi Straine
+12,"Principii, tehnici si dispozitive de masurare",2,1,IS,Masurari si Electronica Optica
+13,Programare orientata pe obiecte,2,1,IS,Automatica si Informatica Aplicata
+14,Proiectarea circuitelor digitale dedicate,2,1,IS,Automatica si Informatica Aplicata
+15,Structuri de date si algoritmi,2,1,IS,Automatica si Informatica Aplicata
+16,Teoria sistemelor 1,2,1,IS,Automatica si Informatica Aplicata
+17,Aplicatii cu automate programabile ,3,1,IS,Automatica si Informatica Aplicata
+18,Management si Marketing,3,1,IS,Management
+19,Medii si tehnologii de programare,3,1,IS,Automatica si Informatica Aplicata
+20,Programare Java ,3,1,IS,Automatica si Informatica Aplicata
+21,Programarea aplicaiilor internet ,3,1,IS,Automatica si Informatica Aplicata
+22,Proiect sincretic 1 - C. Sorandaru ,3,1,IS,Inginerie electrica
+23,Proiect sincretic 1 -F. Dragan ,3,1,IS,Automatica si Informatica Aplicata
+24,Proiect sincretic 1 -S. Nanu ,3,1,IS,Automatica si Informatica Aplicata
+25,Sisteme cu evenimente discrete ,3,1,IS,Automatica si Informatica Aplicata
+26,Sisteme incorporate,3,1,IS,Automatica si Informatica Aplicata
+27,Structuri si algoritmi pentru cond. aut. a proc.,3,1,IS,Automatica si Informatica Aplicata
+28,Aplicatii cu automate programabile ,4,1,IS,Automatica si Informatica Aplicata
+29,Bazele roboticii ,4,1,IS,Mecanica
+30,Comunicatii de date,4,1,IS,Automatica si Informatica Aplicata
+31,"Conducerea actionarilor electrice, hidraulice si pneumatice ",4,1,IS,Automatica si Informatica Aplicata
+32,Conducerea asistata de calculator a proceselor de fabricatie,4,1,IS,Automatica si Informatica Aplicata
+33,Dezvoltarea aplicatiilor de tip Cloud ,4,1,IS,Automatica si Informatica Aplicata
+34,Elemente de executie electrice,4,1,IS,Mecanica
+35,Instrumentatie virtuala,4,1,IS,Automatica si Informatica Aplicata
+36,Invatare automata,4,1,IS,Automatica si Informatica Aplicata
+37,Limbaje de asamblare,4,1,IS,Automatica si Informatica Aplicata
+38,Programare Java,4,1,IS,Automatica si Informatica Aplicata
+39,Programare vizuala,4,1,IS,Automatica si Informatica Aplicata
+40,Programarea aplicatiilor internet,4,1,IS,Automatica si Informatica Aplicata
+41,Proiectarea sistemelor software complexe ,4,1,IS,Automatica si Informatica Aplicata
+42,SCADA - Solutii industriale de achizitii date si conducere supervizata,4,1,IS,Automatica si Informatica Aplicata
+43,Sisteme de achizitii de date,4,1,IS,Automatica si Informatica Aplicata
+44,Sisteme multiprocesor,4,1,IS,Automatica si Informatica Aplicata
+45,"Standardizare, grafica tehnica si creatie intelectuala",4,1,IS,Automatica si Informatica Aplicata
+46,Tehnici de antreprenoriat in Automatica si Informatica Aplicata,4,1,IS,Automatica si Informatica Aplicata
+47,Testarea aplicatiilor software,4,1,IS,Automatica si Informatica Aplicata
+48,Algebra si geometrie,1,1,INF,Matematica
+49,Analiza Matematica,1,1,INF,Matematica
+50,Cultura si civilizatie,1,1,INF,Comunicare si Limbi Straine
+51,Engleza,1,1,INF,Comunicare si Limbi Straine
+52,Fundamentele calculatoarelor,1,1,INF,Calculatoare si Tehnologia Informatiei
+53,Germana,1,1,INF,Comunicare si Limbi Straine
+54,Introducere in programarea calculatoarelor,1,1,INF,Automatica si Informatica Aplicata
+55,Logica si structuri de date,1,1,INF,Calculatoare si Tehnologia Informatiei
+56,Analiza algoritmilor,2,1,INF,Calculatoare si Tehnologia Informatiei
+57,Elemente de automatica,2,1,INF,Automatica si Informatica Aplicata
+58,Management,2,1,INF,Management
+59,Programare orientata pe obiecte,2,1,INF,Automatica si Informatica Aplicata
+60,Proiectarea microsistemelor digitale,2,1,INF,Calculatoare si Tehnologia Informatiei
+61,Sisteme de operare,2,1,INF,Automatica si Informatica Aplicata
+62,Pedagogie(facultativ),2,1,INF,Pregatirea Personalului Didactic
+63,Comunicare,3,1,INF,Comunicare si Limbi Straine
+64,Limbaje form. si tehnici de compilare,3,1,INF,Calculatoare si Tehnologia Informatiei
+65,Medii si tehnologii de programare,3,1,INF,Calculatoare si Tehnologia Informatiei
+66,Programare WEB,3,1,INF,Automatica si Informatica Aplicata
+67,Proiect sincretic II,3,1,INF,Calculatoare si Tehnologia Informatiei
+68,Proiect sincretic II,3,1,INF,Automatica si Informatica Aplicata
+69,Proiectarea bazelor de date,3,1,INF,Calculatoare si Tehnologia Informatiei
+70,Proiectarea interfetelor utilizator si grafica,3,1,INF,Automatica si Informatica Aplicata
+71,Embedded Systems I,1,1,AES,Electronica Aplicata
+72,Networks for Embedded Systems,1,1,AES,Automatica si Informatica Aplicata
+73,Software Engineering 1,1,1,AES,Automatica si Informatica Aplicata
+74,Software Project Management,1,1,AES,Calculatoare si Tehnologia Informatiei
+75,Actuators in Automotive Systems,2,1,AES,Automatica si Informatica Aplicata
+76,Embedded Systems Security,2,1,AES,Automatica si Informatica Aplicata
+77,Java Technologies,2,1,AES,Automatica si Informatica Aplicata
+78,Multi-agent Systems,2,1,AES,Automatica si Informatica Aplicata
+79,Complemente de teoria sistemelor,1,1,ISA,Automatica si Informatica Aplicata
+80,Estimarea parametrilor sistemelor,1,1,ISA,Automatica si Informatica Aplicata
+81,Inteligenta artificiala si ingineria cunoasterii,1,1,ISA,Automatica si Informatica Aplicata
+82,Retele neuronale,1,1,ISA,Automatica si Informatica Aplicata
+83,Managementul proiectelor,2,1,ISA,Automatica si Informatica Aplicata
+84,Sisteme de reglare avansata,2,1,ISA,Automatica si Informatica Aplicata
+85,Sisteme haotice,2,1,ISA,Automatica si Informatica Aplicata
+86,Testarea si diagnoza sistemelor,2,1,ISA,Automatica si Informatica Aplicata
+87,Managementul resurselor umane in cercetare,1,1,SIAPS,Automatica si Informatica Aplicata
+88,Prelucrarea Matematica a semnalelor,1,1,SIAPS,Automatica si Informatica Aplicata
+89,Sisteme distribuite si senzori inteligenti,1,1,SIAPS,Automatica si Informatica Aplicata
+90,Tehnologii de programare Web,1,1,SIAPS,Automatica si Informatica Aplicata
+91,Inteligena artificiala si sisteme autonome,2,1,SIAPS,Automatica si Informatica Aplicata
+92,Logistica industriala si comerciala,2,1,SIAPS,Automatica si Informatica Aplicata
+93,Sisteme multiagent,2,1,SIAPS,Automatica si Informatica Aplicata
+94,Tehnologii Java,2,1,SIAPS,Automatica si Informatica Aplicata
+95,Inteligenta artificiala si sisteme expert,1,1,TI,Automatica si Informatica Aplicata
+96,Modelarea si simularea sistemelor discrete,1,1,TI,Automatica si Informatica Aplicata
+97,Tehnici avansate de compilare,1,1,TI,Calculatoare si Tehnologia Informatiei
+98,Tehnologii internet,1,1,TI,Automatica si Informatica Aplicata
+99,Metode de testare software,2,1,TI,Automatica si Informatica Aplicata
+100,Programarea sistemelor incorporate,2,1,TI,Calculatoare si Tehnologia Informatiei
+101,Proiectarea arhitecturala a sistemelor software,2,1,TI,Calculatoare si Tehnologia Informatiei
+102,Sisteme autoadaptive: design si aplicatii,2,1,TI,Calculatoare si Tehnologia Informatiei
+103,Baze de date in ingrijirea sanatatii,1,1,SIIS,Automatica si Informatica Aplicata
+104,Bioinformatica si modelare statistica,1,1,SIIS,Externi-medicina
+105,Evidenta electronica a starii de sanatate a pacientului,1,1,SIIS,Automatica si Informatica Aplicata
+106,Fundamente de sisteme biologice si informatica medicala,1,1,SIIS,Automatica si Informatica Aplicata
+107,Echipamente medicale,2,1,SIIS,Mecanica
+108,Imagistica medicala,2,1,SIIS,Automatica si Informatica Aplicata
+109,Interactiunea om-calculator in ingrijirea sanatatii,2,1,SIIS,Automatica si Informatica Aplicata
+110,Metode de comunicare in informatica medicala,2,1,SIIS,Externi-medicina
+111,Algebra si geometrie,1,1,CTI,Matematica
+112,Analiza Matematica,1,1,CTI,Matematica
+113,Engleza,1,1,CTI,Comunicare si Limbi Straine
+114,Fizica,1,1,CTI,Bazele Fizice ale Ingineriei
+115,Franceza,1,1,CTI,Comunicare si Limbi Straine
+116,Fundamente de inginerie mecanica si robotica,1,1,CTI,Mecanica
+117,Germana,1,1,CTI,Comunicare si Limbi Straine
+118,Logica si structuri discrete,1,1,CTI,Calculatoare si Tehnologia Informatiei
+119,Programarea calculatoarelor,1,1,CTI,Calculatoare si Tehnologia Informatiei
+120,Arhitectura calculatoarelor,2,1,CTI,Calculatoare si Tehnologia Informatiei
+121,Circuite digitale,2,1,CTI,Calculatoare si Tehnologia Informatiei
+122,Comunicare,2,1,CTI,Comunicare si Limbi Straine
+123,"Principii, tehnici si dispozitivede masurare",2,1,CTI,Masurari si Electronica Optica
+124,Programarea orientata pe obiecte,2,1,CTI,Calculatoare si Tehnologia Informatiei
+125,Structuri de date si algoritmi,2,1,CTI,Calculatoare si Tehnologia Informatiei
+126,Teoria sistemelor,2,1,CTI,Automatica si Informatica Aplicata
+127,Calitate in tehnologia informatiei,3,1,CTI,Calculatoare si Tehnologia Informatiei
+128,Circuite integrate pe scara larga,3,1,CTI,Calculatoare si Tehnologia Informatiei
+129,Fundamente de ingineria calculatoarelor,3,1,CTI,Calculatoare si Tehnologia Informatiei
+130,Management si marketing,3,1,CTI,Management
+131,Programarea in limbaj de asamblare,3,1,CTI,Calculatoare si Tehnologia Informatiei
+132,Programarea Web,3,1,CTI,Calculatoare si Tehnologia Informatiei
+133,Proiectarea detaliata a sistemelor software,3,1,CTI,Calculatoare si Tehnologia Informatiei
+134,Proiectarea microsistemelor digitale,3,1,CTI,Calculatoare si Tehnologia Informatiei
+135,Re?ele de calculatoare,3,1,CTI,Calculatoare si Tehnologia Informatiei
+136,Sisteme de operare,3,1,CTI,Calculatoare si Tehnologia Informatiei
+137,Instruire asistata de calculator-facultativ,3,1,CTI,Calculatoare si Tehnologia Informatiei
+138,Achizitia si prelucrarea numerica a datelor,4,1,CTI,Calculatoare si Tehnologia Informatiei
+139,Agenti inteligenti si aplicatii web,4,1,CTI,Calculatoare si Tehnologia Informatiei
+140,Codesign hardware/software,4,1,CTI,Calculatoare si Tehnologia Informatiei
+141,Comunicatii si retele fara fir,4,1,CTI,Calculatoare si Tehnologia Informatiei
+142,Interfete si echipamente periferice,4,1,CTI,Calculatoare si Tehnologia Informatiei
+143,Modelare si simulare,4,1,CTI,Calculatoare si Tehnologia Informatiei
+144,Programare concurenta si bazata pe evenimente,4,1,CTI,Calculatoare si Tehnologia Informatiei
+145,Proiectarea bazelor de date,4,1,CTI,Calculatoare si Tehnologia Informatiei
+146,Securitatea sistemelor de calcul,4,1,CTI,Automatica si Informatica Aplicata
+147,Sisteme integrate de productie asistate de calculator,4,1,CTI,Calculatoare si Tehnologia Informatiei
+148,Sisteme mobile si aplicatii,4,1,CTI,Calculatoare si Tehnologia Informatiei
+149,Tehnici de proiectare asistata de calculator,4,1,CTI,Calculatoare si Tehnologia Informatiei
+150,Telecomunicatii digitale,4,1,CTI,Calculatoare si Tehnologia Informatiei
+151,Verificare si validare software,4,1,CTI,Calculatoare si Tehnologia Informatiei
+152,Algebra and geometry,1,1,CTI-ENG,Matematica
+153,Calculus,1,1,CTI-ENG,Matematica
+154,Computer programming,1,1,CTI-ENG,Calculatoare si Tehnologia Informatiei
+155,English,1,1,CTI-ENG,Comunicare si Limbi Straine
+156,Logic and discrete structures,1,1,CTI-ENG,Calculatoare si Tehnologia Informatiei
+157,Physics,1,1,CTI-ENG,Bazele Fizice ale Ingineriei
+158,Communication,2,1,CTI-ENG,Comunicare si Limbi Straine
+159,Computer architecture,2,1,CTI-ENG,Calculatoare si Tehnologia Informatiei
+160,Data structures and algorithms,2,1,CTI-ENG,Calculatoare si Tehnologia Informatiei
+161,Digital circuits and signals,2,1,CTI-ENG,Calculatoare si Tehnologia Informatiei
+162,Object-oriented programming,2,1,CTI-ENG,Calculatoare si Tehnologia Informatiei
+163,System theory and automatization,2,1,CTI-ENG,Automatica si Informatica Aplicata
+164,Artificial Intelligence Fundamentals,3,1,CTI-ENG,Calculatoare si Tehnologia Informatiei
+165,Computer Engineering,3,1,CTI-ENG,Calculatoare si Tehnologia Informatiei
+166,Computer Security,3,1,CTI-ENG,Automatica si Informatica Aplicata
+167,Databases,3,1,CTI-ENG,Calculatoare si Tehnologia Informatiei
+168,Digital Microsystems Design,3,1,CTI-ENG,Calculatoare si Tehnologia Informatiei
+169,Fundamental Concepts of Programming Languages,3,1,CTI-ENG,Calculatoare si Tehnologia Informatiei
+170,Large Scale Integrated Circuits,3,1,CTI-ENG,Calculatoare si Tehnologia Informatiei
+171,Mechanical Engineering and Robotics,3,1,CTI-ENG,Mecanica
+172,Software Systems Design,3,1,CTI-ENG,Calculatoare si Tehnologia Informatiei
+173,Web Application Design,3,1,CTI-ENG,Calculatoare si Tehnologia Informatiei
+174,Computer aided design,4,1,CTI-ENG,Calculatoare si Tehnologia Informatiei
+175,Concurrent and event-based programming,4,1,CTI-ENG,Calculatoare si Tehnologia Informatiei
+176,Digital telecommunication,4,1,CTI-ENG,Calculatoare si Tehnologia Informatiei
+177,Image Processing and Recognition,4,1,CTI-ENG,Calculatoare si Tehnologia Informatiei
+178,Management and Marketing,4,1,CTI-ENG,Calculatoare si Tehnologia Informatiei
+179,Mobile systems and applications,4,1,CTI-ENG,Calculatoare si Tehnologia Informatiei
+180,Software verification and validation,4,1,CTI-ENG,Calculatoare si Tehnologia Informatiei
+181,Verification and validation of hardware systems,4,1,CTI-ENG,Calculatoare si Tehnologia Informatiei
+182,"Data Transmission, Coding and Compression",1,1,MIT,Calculatoare si Tehnologia Informatiei
+183,Bioinformatics,1,1,MIT,Calculatoare si Tehnologia Informatiei
+184,Cellular Data Networks,1,1,MIT,Calculatoare si Tehnologia Informatiei
+185,Deep Learning,1,1,MIT,Calculatoare si Tehnologia Informatiei
+186,Smart Sensors and Sensor Networks,1,1,MIT,Calculatoare si Tehnologia Informatiei
+187,Cellular Data Networks,2,1,MIT,Calculatoare si Tehnologia Informatiei
+188,Advanced Web Programming,2,1,MIT,Calculatoare si Tehnologia Informatiei
+189,Evolvable Hardware,2,1,MIT,Calculatoare si Tehnologia Informatiei
+190,Advanced Artificial Intelligence,2,1,MIT,Calculatoare si Tehnologia Informatiei
+191,Evolvable Hardware,2,1,MCE,Calculatoare si Tehnologia Informatiei
+192,Advanced Artificial Intelligence,2,1,MCE,Calculatoare si Tehnologia Informatiei
+193,Cellular Data Networks,2,1,MCE,Calculatoare si Tehnologia Informatiei
+194,Component Based Software Engineering,1,1,MSE,Calculatoare si Tehnologia Informatiei
+195,Compiler Design,1,1,MSE,Calculatoare si Tehnologia Informatiei
+196,User Interface and User Experience Design,1,1,MSE,Calculatoare si Tehnologia Informatiei
+197,High-End Interfaces and Equipments,1,1,MSE,Calculatoare si Tehnologia Informatiei
+198,Emerging Systems,1,1,MSE,Calculatoare si Tehnologia Informatiei
+199,Research Topics in SE,1,1,MSE,Calculatoare si Tehnologia Informatiei
+200,Advanced Web Programming,2,1,MSE,Calculatoare si Tehnologia Informatiei
+201,Neural Networks,2,1,MSE,Calculatoare si Tehnologia Informatiei
+202,Parallel Algorithms,2,1,MSE,Calculatoare si Tehnologia Informatiei
+203,Graphics Processing Systems,2,1,MSE,Calculatoare si Tehnologia Informatiei
+204,Matematici asistate de calculator,1,2,IS,Automatica si Informatica Aplicata
+205,Matematici speciale,1,2,IS,Matematica
+206,Fundamente de inginerie electronic,1,2,IS,Automatica si Informatica Aplicata
+207,Fundamente de inginerie electrica,1,2,IS,Bazele Fizice ale Ingineriei
+208,Tehnici de programare,1,2,IS,Automatica si Informatica Aplicata
+209,Logica digitala,1,2,IS,Automatica si Informatica Aplicata
+210,Germana 2,1,2,IS,Comunicare si Limbi Straine
+211,Engleza 2,1,2,IS,Comunicare si Limbi Straine
+212,Teoria sistemelor 2,2,2,IS,Automatica si Informatica Aplicata
+213,Baze de date,2,2,IS,Automatica si Informatica Aplicata
+214,Programare concurenta,2,2,IS,Automatica si Informatica Aplicata
+215,"Modelare, simulare si elem. de identif.",2,2,IS,Automatica si Informatica Aplicata
+216,Tehnici de optimizare,2,2,IS,Automatica si Informatica Aplicata
+217,Sisteme bazate pe microproc. si microcontr.,2,2,IS,Automatica si Informatica Aplicata
+218,Microeconomie,2,2,IS,Management
+219,Ingineria reglarii automate,3,2,IS,Automatica si Informatica Aplicata
+220,Sisteme de operare,3,2,IS,Automatica si Informatica Aplicata
+221,Retele de calculatoare,3,2,IS,Automatica si Informatica Aplicata
+222,Cultura si civilizatie,3,2,IS,Comunicare si Limbi Straine
+223,Securitatea sistemelor software,3,2,IS,Automatica si Informatica Aplicata
+224,Ingineria programarii,3,2,IS,Automatica si Informatica Aplicata
+225,Structuri de interfatare si masurare in SA,3,2,IS,Automatica si Informatica Aplicata
+226,Identificarea sistemelor,3,2,IS,Automatica si Informatica Aplicata
+227,Proiect sincretic 2 (Nanu),3,2,IS,Automatica si Informatica Aplicata
+228,Proiect sincretic 2 (Iercan),3,2,IS,Automatica si Informatica Aplicata
+229,Proiect sincretic 2 (Korodi),3,2,IS,Automatica si Informatica Aplicata
+230,Proiect sincretic 2 (Volosencu),3,2,IS,Automatica si Informatica Aplicata
+231,Automatizari complexe,4,2,IS,Automatica si Informatica Aplicata
+232,Dispozitive digitale utilizate in medicina,4,2,IS,Automatica si Informatica Aplicata
+233,Sisteme de conducere fuzzy,4,2,IS,Automatica si Informatica Aplicata
+234,Fiabilitatea si testarea echipamentelor digitale,4,2,IS,Automatica si Informatica Aplicata
+235,Conducerea sistemelor cu evenimente discrete,4,2,IS,Automatica si Informatica Aplicata
+236,Designul sistemelor embedded,4,2,IS,Automatica si Informatica Aplicata
+237,Internetul industrial al lucrurilor,4,2,IS,Automatica si Informatica Aplicata
+238,Sisteme si componente automotive,4,2,IS,Automatica si Informatica Aplicata
+239,Informatica aplicata in servicii de sanatate,4,2,IS,Automatica si Informatica Aplicata
+240,Tehnici de programare cu baze de date,4,2,IS,Automatica si Informatica Aplicata
+241,Tehnologii multimedia,4,2,IS,Automatica si Informatica Aplicata
+242,Instrumente CASE,4,2,IS,Automatica si Informatica Aplicata
+243,Modelare software. UML si XML,4,2,IS,Automatica si Informatica Aplicata
+244,Vedere artificiala,4,2,IS,Automatica si Informatica Aplicata
+245,Algoritmi in retele de senzori wireless,4,2,IS,Automatica si Informatica Aplicata
+246,Creativitate si managementul inovatiei,4,2,IS,Automatica si Informatica Aplicata
+247,Matematici Speciale,1,2,INF,Matematica
+248,Tehnici de programare,1,2,INF,Calculatoare si Tehnologia Informatiei
+249,Structuri de date si algoritmi,1,2,INF,Automatica si Informatica Aplicata
+250,Arhitectura calculatoarelor,1,2,INF,Automatica si Informatica Aplicata
+251,Matematici asistate de calculator,1,2,INF,Automatica si Informatica Aplicata
+252,Microeconomie,1,2,INF,Management
+253,Engleza 2,1,2,INF,Comunicare si Limbi Straine
+254,Germana 2,1,2,INF,Comunicare si Limbi Straine
+255,Fundamente de inginerie software,2,2,INF,Calculatoare si Tehnologia Informatiei
+256,Securitatea informt?iei,2,2,INF,Automatica si Informatica Aplicata
+257,Retele de calculatoare,2,2,INF,Automatica si Informatica Aplicata
+258,Baze de date,2,2,INF,Automatica si Informatica Aplicata
+259,Programare Java,2,2,INF,Automatica si Informatica Aplicata
+260,Marketing,2,2,INF,Management
+261,Proiect sincretic I A(Proiectarea sistemelor digitale),2,2,INF,Calculatoare si Tehnologia Informatiei
+262,Proiect sincretic I B(Tehnici de programare),2,2,INF,Calculatoare si Tehnologia Informatiei
+263,Proiect sincretic I C(Structuri de date si algoritmi),2,2,INF,Calculatoare si Tehnologia Informatiei
+264,Programarea aplicatiilor multimedia,3,2,INF,Automatica si Informatica Aplicata
+265,Programarea aplic. pe platforme reconfig. ,3,2,INF,Calculatoare si Tehnologia Informatiei
+266,Proiectarea translatoarelor ,3,2,INF,Calculatoare si Tehnologia Informatiei
+267,Sisteme incorporate,3,2,INF,Calculatoare si Tehnologia Informatiei
+268,Embedded Systems 2,1,2,AES,Automatica si Informatica Aplicata
+269,Dynamic Systems and Stability in Automotive Control,1,2,AES,Automatica si Informatica Aplicata
+270,Comunication Skills,1,2,AES,Management
+271,Embedded Systems Testing,1,2,AES,Calculatoare si Tehnologia Informatiei
+272,Sisteme de conducere adaptiva,1,2,ISA,Automatica si Informatica Aplicata
+273,Sisteme de conducere inteligenta,1,2,ISA,Automatica si Informatica Aplicata
+274,Sisteme de conducere a miscarii,1,2,ISA,Automatica si Informatica Aplicata
+275,Retele wireless si aplicatii in automatica,1,2,ISA,Automatica si Informatica Aplicata
+276,Platforme informatice pentru productie si servicii,1,2,SIAPS,Automatica si Informatica Aplicata
+277,Automatizari cu echipamente de putere,1,2,SIAPS,Automatica si Informatica Aplicata
+278,Tehnici avansate de securizarea datelor si programelor,1,2,SIAPS,Automatica si Informatica Aplicata
+279,Programarea moderna a AP-urilor si masinilor cu CNC,1,2,SIAPS,Automatica si Informatica Aplicata
+280,Programarea retelelor de calculator,1,2,TI,Calculatoare si Tehnologia Informatiei
+281,Sisteme de programare in timp real,1,2,TI,Automatica si Informatica Aplicata
+282,Managementul proiectelor software,1,2,TI,Calculatoare si Tehnologia Informatiei
+283,Tehnici avansate de criptare si securitate,1,2,TI,Automatica si Informatica Aplicata
+284,Aplicatii de e-Health,1,2,SIIS,Automatica si Informatica Aplicata
+285,Managementul proiectelor software in aplicatii medicale,1,2,SIIS,Automatica si Informatica Aplicata
+286,Sisteme de decizie asistata in ingrijirea sanatatii,1,2,SIIS,Automatica si Informatica Aplicata
+287,Dezvoltarea aplicatiilor software pentru domeniul medical,1,2,SIIS,Automatica si Informatica Aplicata
+288,Matematici asistate de calculator,1,2,CTI,Calculatoare si Tehnologia Informatiei
+289,Matematici speciale,1,2,CTI,Matematica
+290,Fundamente de inginerie electronica,1,2,CTI,Electronica Aplicata
+291,Fundamente de inginerie electrica,1,2,CTI,Bazele Fizice ale Ingineriei
+292,Tehnici de programare,1,2,CTI,Calculatoare si Tehnologia Informatiei
+293,Logica digitala,1,2,CTI,Calculatoare si Tehnologia Informatiei
+294,Germana 2,1,2,CTI,Comunicare si Limbi Straine
+295,Engleza 2,1,2,CTI,Comunicare si Limbi Straine
+296,Microeconomie,2,2,CTI,Management
+297,Proiectarea si analiza algoritmilor,2,2,CTI,Calculatoare si Tehnologia Informatiei
+298,Fundamente de inginerie software,2,2,CTI,Calculatoare si Tehnologia Informatiei
+299,Baze de date,2,2,CTI,Calculatoare si Tehnologia Informatiei
+300,Organizarea calculatoarelor,2,2,CTI,Calculatoare si Tehnologia Informatiei
+301,Circuite integrate,2,2,CTI,Calculatoare si Tehnologia Informatiei
+302,Concepte fundam. ale limbajelor de programare,2,2,CTI,Calculatoare si Tehnologia Informatiei
+303,Cultura si civilizatie,2,2,CTI,Comunicare si Limbi Straine
+304,Bazele inteligentei artificiale,3,2,CTI,Calculatoare si Tehnologia Informatiei
+305,Sisteme incorporate,3,2,CTI,Calculatoare si Tehnologia Informatiei
+306,Elemente de grafica (si interfete om-calculator),3,2,CTI,Calculatoare si Tehnologia Informatiei
+307,Prelucrarea numerica a semnalelor,3,2,CTI,Calculatoare si Tehnologia Informatiei
+308,Limbaje formale si tehnici de compilare,3,2,CTI,Calculatoare si Tehnologia Informatiei
+309,Sisteme cu microprocesoare,3,2,CTI,Calculatoare si Tehnologia Informatiei
+310,Ingineria calculatoarelor,3,2,CTI,Calculatoare si Tehnologia Informatiei
+311,Complexitate sicalculabilitate,3,2,CTI,Calculatoare si Tehnologia Informatiei
+312,Proiectarea si arhitectura sistemelor software complexe,3,2,CTI,Calculatoare si Tehnologia Informatiei
+313,Servicii complexa in retelele de calculatoare,3,2,CTI,Calculatoare si Tehnologia Informatiei
+314,Memorii semiconductoare,3,2,CTI,Calculatoare si Tehnologia Informatiei
+315,Programarea aplicatiilor distribuite,3,2,CTI,Calculatoare si Tehnologia Informatiei
+316,Explorarea datelor,3,2,CTI,Calculatoare si Tehnologia Informatiei
+317,Calcul reconfigurabil,4,2,CTI,Calculatoare si Tehnologia Informatiei
+318,Fiabilitatea sistemelor de calcul,4,2,CTI,Calculatoare si Tehnologia Informatiei
+319,Sisteme expert,4,2,CTI,Calculatoare si Tehnologia Informatiei
+320,Managementul proiectelor software,4,2,CTI,Calculatoare si Tehnologia Informatiei
+321,Evaluarea performantelor sistemelor de calcul,4,2,CTI,Calculatoare si Tehnologia Informatiei
+322,Proiectarea driverelor,4,2,CTI,Calculatoare si Tehnologia Informatiei
+323,Calitate si evolutie software,4,2,CTI,Calculatoare si Tehnologia Informatiei
+324,Sisteme multimedia,4,2,CTI,Calculatoare si Tehnologia Informatiei
+325,Logica fuzzy si aplicatii,4,2,CTI,Calculatoare si Tehnologia Informatiei
+326,Structuri tolerante la defecte,4,2,CTI,Calculatoare si Tehnologia Informatiei
+327,Computer assisted mathematics,1,2,CTI-ENG,Automatica si Informatica Aplicata
+328,Special mathematics,1,2,CTI-ENG,Matematica
+329,Electrical engineering fundamentals,1,2,CTI-ENG,Bazele Fizice ale Ingineriei
+330,Programming techniques,1,2,CTI-ENG,Calculatoare si Tehnologia Informatiei
+331,Digital logic,1,2,CTI-ENG,Calculatoare si Tehnologia Informatiei
+332,Electronic devices and measurements,1,2,CTI-ENG,Electronica Aplicata
+333,Engleza 2,1,2,CTI-ENG,Comunicare si Limbi Straine
+334,Algorithm design and analysis,2,2,CTI-ENG,Calculatoare si Tehnologia Informatiei
+335,Software engineering fundamentals,2,2,CTI-ENG,Calculatoare si Tehnologia Informatiei
+336,Computer organization,2,2,CTI-ENG,Calculatoare si Tehnologia Informatiei
+337,Operating systems,2,2,CTI-ENG,Calculatoare si Tehnologia Informatiei
+338,Computer networks,2,2,CTI-ENG,Calculatoare si Tehnologia Informatiei
+339,Culture and civilization,2,2,CTI-ENG,Comunicare si Limbi Straine
+340,Digital Signal Processing,3,2,CTI-ENG,Calculatoare si Tehnologia Informatiei
+341,Compilation Techniques,3,2,CTI-ENG,Calculatoare si Tehnologia Informatiei
+342,Introduction to IoT and Cloud Architectures,3,2,CTI-ENG,Calculatoare si Tehnologia Informatiei
+343,Database Design,3,2,CTI-ENG,Calculatoare si Tehnologia Informatiei
+344,Computer graphics,3,2,CTI-ENG,Calculatoare si Tehnologia Informatiei
+345,Data Mining,3,2,CTI-ENG,Calculatoare si Tehnologia Informatiei
+346,Embedded Systems,3,2,CTI-ENG,Calculatoare si Tehnologia Informatiei
+347,Complexity and Computability,3,2,CTI-ENG,Calculatoare si Tehnologia Informatiei
+348,Design and Architecture of Complex Software Systems,3,2,CTI-ENG,Calculatoare si Tehnologia Informatiei
+349,Distributed Programming,3,2,CTI-ENG,Calculatoare si Tehnologia Informatiei
+350,Microeconomics,3,2,CTI-ENG,Management
+351,Reconfigurable Computing,4,2,CTI-ENG,Calculatoare si Tehnologia Informatiei
+352,Computer Systems Reliability,4,2,CTI-ENG,Calculatoare si Tehnologia Informatiei
+353,Expert Systems,4,2,CTI-ENG,Calculatoare si Tehnologia Informatiei
+354,Software Project Management,4,2,CTI-ENG,Calculatoare si Tehnologia Informatiei
+355,Multimedia Systems,4,2,CTI-ENG,Calculatoare si Tehnologia Informatiei
+356,Fuzzy Logic and Applications,4,2,CTI-ENG,Calculatoare si Tehnologia Informatiei
+357,Distributed Programming,4,2,CTI-ENG,Calculatoare si Tehnologia Informatiei
+358,Entrepreneurship in IT,4,2,CTI-ENG,Calculatoare si Tehnologia Informatiei
+359,Integrated Information Systems,1,2,MIT,Calculatoare si Tehnologia Informatiei
+360,Optic Fiber Transmissions,1,2,MIT,Calculatoare si Tehnologia Informatiei
+361,Emergent and Collective Intelligence Systems,1,2,MIT,Calculatoare si Tehnologia Informatiei
+362,Fault Diagnosis and Design for Testability,1,2,MIT,Calculatoare si Tehnologia Informatiei
+363,Advanced Embedded Systems,1,2,MIT,Calculatoare si Tehnologia Informatiei
+364,Introduction to Research,1,2,MIT,Calculatoare si Tehnologia Informatiei
+365,Advanced Databases,1,2,MSE,Calculatoare si Tehnologia Informatiei
+366,Advanced Distributed Applications,1,2,MSE,Calculatoare si Tehnologia Informatiei
+367,Real Time Systems Design,1,2,MSE,Calculatoare si Tehnologia Informatiei
+368,Heuristic Methods,1,2,MSE,Calculatoare si Tehnologia Informatiei
+369,Reinforcement Learning,1,2,MSE,Calculatoare si Tehnologia Informatiei
+370,Introduction to Research,1,2,MSE,Calculatoare si Tehnologia Informatiei

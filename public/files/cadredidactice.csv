@@ -1,0 +1,275 @@
+nr,profesor,departament
+1,Andreescu Daniel,Automatica si Informatica Aplicata
+2,Curiac Daniel,Automatica si Informatica Aplicata
+3,Filip Ioan,Automatica si Informatica Aplicata
+4,Groza Bogdan,Automatica si Informatica Aplicata
+5,Precup Radu Emil,Automatica si Informatica Aplicata
+6,Prostean Octavian,Automatica si Informatica Aplicata
+7,Robu Nicolae,Automatica si Informatica Aplicata
+8,Silea Ioan,Automatica si Informatica Aplicata
+9,Stoicu Tivadar Lacramioara,Automatica si Informatica Aplicata
+10,Stoicu Tivadar Vasile,Automatica si Informatica Aplicata
+11,Volosencu Constantin,Automatica si Informatica Aplicata
+12,Dragan Florin,Automatica si Informatica Aplicata
+13,Stanciu Loredana,Automatica si Informatica Aplicata
+14,Szeidert Iosif,Automatica si Informatica Aplicata
+15,Albu Adriana,Automatica si Informatica Aplicata
+16,Banias Ovidiu,Automatica si Informatica Aplicata
+17,Berian Dorin,Automatica si Informatica Aplicata
+18,Bojan Dragos Claudia,Automatica si Informatica Aplicata
+19,Crisan Vida Mihaela,Automatica si Informatica Aplicata
+20,Gal-Nadasan Norbert,Automatica si Informatica Aplicata
+21,Gurban Eugen Horatiu,Automatica si Informatica Aplicata
+22,Iercan Daniel,Automatica si Informatica Aplicata
+23,Korodi Adrian,Automatica si Informatica Aplicata
+24,Murvay Pal Stefan,Automatica si Informatica Aplicata
+25,Nanu Sorin,Automatica si Informatica Aplicata
+26,Petrica Dorina,Automatica si Informatica Aplicata
+27,Popescu Dorina,Automatica si Informatica Aplicata
+28,Radac Mircea,Automatica si Informatica Aplicata
+29,Robu Andreea Paula,Automatica si Informatica Aplicata
+30,Robu Claudiu Raul,Automatica si Informatica Aplicata
+31,Stanciu Antonius Nicolae,Automatica si Informatica Aplicata
+32,Stefan Octavian,Automatica si Informatica Aplicata
+33,Szedlak Stinean Alexandra Iulia,Automatica si Informatica Aplicata
+34,Ungureanu Anghela Dan,Automatica si Informatica Aplicata
+35,Vasar Cristian,Automatica si Informatica Aplicata
+36,Chirila Oana Sorina,Automatica si Informatica Aplicata
+37,Dan Ana Maria,Automatica si Informatica Aplicata
+38,Nicola Stelian Nicolae,Automatica si Informatica Aplicata
+39,Roman Raul Cristian,Automatica si Informatica Aplicata
+40,Zimbru Cristian,Automatica si Informatica Aplicata
+41,Hedrea Elena-Lorena ,Automatica si Informatica Aplicata
+42,Aciu Razvan,Calculatoare si Tehnologia informatiei
+43,Amaricai Boncalo Alexandru,Calculatoare si Tehnologia informatiei
+44,Amaricai Boncalo Oana,Calculatoare si Tehnologia informatiei
+45,Ancusa Versavia-Maria,Calculatoare si Tehnologia informatiei
+46,Anton Alin-Adrian,Calculatoare si Tehnologia informatiei
+47,Babii Sorin-Ioan,Calculatoare si Tehnologia informatiei
+48,Bogdan Razvan-Virgil,Calculatoare si Tehnologia informatiei
+49,Caus Oana-Maria,Calculatoare si Tehnologia informatiei
+50,Cernazanu-Glavan Cosmin,Calculatoare si Tehnologia informatiei
+51,Chitila Ciprian Bogdan,Calculatoare si Tehnologia informatiei
+52,Cioarga Razvan Dorel,Calculatoare si Tehnologia informatiei
+53,Ciocarlie Horia,Calculatoare si Tehnologia informatiei
+54,Cosma Dan Calin,Calculatoare si Tehnologia informatiei
+55,Cretu Vladimir-Ioan,Calculatoare si Tehnologia informatiei
+56,Crisan Marius,Calculatoare si Tehnologia informatiei
+57,Fuicu Sebastian-Onut,Calculatoare si Tehnologia informatiei
+58,Holban Stefan,Calculatoare si Tehnologia informatiei
+59,Holotescu Oana-Iulia-Casandra,Calculatoare si Tehnologia informatiei
+60,Iovanovici Alexandru,Calculatoare si Tehnologia informatiei
+61,Istin Codruta-Mihaela,Calculatoare si Tehnologia informatiei
+62,Marcu Marius-George,Calculatoare si Tehnologia informatiei
+63,Marinescu Cristina-Magdalena,Calculatoare si Tehnologia informatiei
+64,Marinescu Radu,Calculatoare si Tehnologia informatiei
+65,Micea Victor-Mihai,Calculatoare si Tehnologia informatiei
+66,Mihancea Petru Florin,Calculatoare si Tehnologia informatiei
+67,Minea Marius-Romulus,Calculatoare si Tehnologia informatiei
+68,Mioc Mirela Amelia,Calculatoare si Tehnologia informatiei
+69,Moldovan Vasile-Horatiu,Calculatoare si Tehnologia informatiei
+70,Nimaraa Sergiu,Calculatoare si Tehnologia informatiei
+71,Opritoiu Flavius-Gabriel,Calculatoare si Tehnologia informatiei
+72,Pescaru Dan-Alexandru,Calculatoare si Tehnologia informatiei
+73,Popa Calin Adrian,Calculatoare si Tehnologia informatiei
+74,Popa Mircea,Calculatoare si Tehnologia informatiei
+75,Prodan Lucian-Adrian,Calculatoare si Tehnologia informatiei
+76,Sora Ioana-Maria,Calculatoare si Tehnologia informatiei
+77,Stanescu Daniela-Natalia,Calculatoare si Tehnologia informatiei
+78,Stangaciu Cristina-Sorina,Calculatoare si Tehnologia informatiei
+79,Stangaciu Valentin,Calculatoare si Tehnologia informatiei
+80,Stratulat Mircea,Calculatoare si Tehnologia informatiei
+81,Todinca Doru,Calculatoare si Tehnologia informatiei
+82,Topirceanu Ioan-Alexandru,Calculatoare si Tehnologia informatiei
+83,Udrescu-Milosav Mihai-Alexandru,Calculatoare si Tehnologia informatiei
+84,Kovacs Adalbert,Matematica
+85,Gavruta Pasc,Matematica
+86,Petrisor Emilia,Matematica
+87,Golet Ioan,Matematica
+88,Daianu Dan,Matematica
+89,Paunescu Doru,Matematica
+90,Bota Constantin,Matematica
+91,Negrea Romeo,Matematica
+92,Cadariu-Brailoiu Liviu,Matematica
+93,Tigan Gheorghe,Matematica
+94,Jivulescu Maria-Anastasia,Matematica
+95,Crivat Nicolae,Matematica
+96,Cofan Nicolae,Matematica
+97,Lugojan Sorin,Matematica
+98,Binzar Tudor,Matematica
+99,Ariesanu Camelia,Matematica
+100,Lazureanu Cristian,Matematica
+101,Girban Anania,Matematica
+102,Caruntu Bogdan,Matematica
+103,Bundau Olivia,Matematica
+104,Juratoni Adina,Matematica
+105,Ciurdariu Loredana,Matematica
+106,Hedrea Ciprian,Matematica
+107,Pater Flavius,Matematica
+108,Petrisor Camelia,Matematica
+109,Lazar Ioana,Matematica
+110,Eckstein Andrei,Matematica
+111,Caplescu Cristiana,Matematica
+112,Gavruta Laura,Matematica
+113,Ene Remus,Matematica
+114,Popescu Dan,Matematica
+115,Dumitru Toader,Bazele Fizice ale Ingineriei
+116,Ioan Bere,Bazele Fizice ale Ingineriei
+117,Dumitru Irimia,Bazele Fizice ale Ingineriei
+118,Floricica Barvinschi,Bazele Fizice ale Ingineriei
+119,Marian Greconici,Bazele Fizice ale Ingineriei
+120,Constantin Blaj,Bazele Fizice ale Ingineriei
+121,Delia Gabriela Trif-Tordai,Bazele Fizice ale Ingineriei
+122,Ioan Zaharie,Bazele Fizice ale Ingineriei
+123,Simona Pretorian,Bazele Fizice ale Ingineriei
+124,Marius Costache,Bazele Fizice ale Ingineriei
+125,Nicolina Rodica Pop,Bazele Fizice ale Ingineriei
+126,Ildiko Tatai,Bazele Fizice ale Ingineriei
+127,Daniela Vesa,Bazele Fizice ale Ingineriei
+128,Beatrice Costache,Bazele Fizice ale Ingineriei
+129,Oana Irizoiu,Bazele Fizice ale Ingineriei
+130,Simona Ilie,Bazele Fizice ale Ingineriei
+131,Calin Chioreanu,Bazele Fizice ale Ingineriei
+132,Ancuti Codruta,Masurari si electronica optica
+133,Ancuti Cosmin,Masurari si electronica optica
+134,Belega Daniel,Masurari si electronica optica
+135,De Sabata Aldo,Masurari si electronica optica
+136,Dughir Ciprian,Masurari si electronica optica
+137,Gasparesc Gabriel,Masurari si electronica optica
+138,Iftode Cora,Masurari si electronica optica
+139,Ionel Raul,Masurari si electronica optica
+140,Lascu Mihaela,Masurari si electronica optica
+141,Matiu Iovan Liliana,Masurari si electronica optica
+142,Mischie Septimiu,Masurari si electronica optica
+143,Pazsitka Robert,Masurari si electronica optica
+144,Stoiciu Dan,Masurari si electronica optica
+145,Vartosu Adrian,Masurari si electronica optica
+146,Ivan Bogdanov,Electronica aplicata
+147,Caleanu Catalin ,Electronica aplicata
+148,Mircea Ciugudean,Electronica aplicata
+149,Gontean Aurel-Stefan,Electronica aplicata
+150,Sabin Ionel,Electronica aplicata
+151,Dorina Isar,Electronica aplicata
+152,Dan Lascu,Electronica aplicata
+153,Mihail Eugen TAnase,Electronica aplicata
+154,Virgil Tiponut,Electronica aplicata
+155,Dan Andreiciuc,Electronica aplicata
+156,Mircea Babaita,Electronica aplicata
+157,Ioan Jivet,Electronica aplicata
+158,Ioan Lie,Electronica aplicata
+159,Valentin Bogdan Marinca,Electronica aplicata
+160,Dan Negoitescu,Electronica aplicata
+161,Ioana-Monica Pop-Calimanu,Electronica aplicata
+162,Adrian Popovici,Electronica aplicata
+163,Georgiana Simion,Electronica aplicata
+164,Roland Szabo,Electronica aplicata
+165,Adrian-Ionel Avram,Electronica aplicata
+166,Aurel Ciresan,Electronica aplicata
+167,Marllene Daneti,Electronica aplicata
+168,Valentin Maranescu,Electronica aplicata
+169,Radu Mirsu,Electronica aplicata
+170,Corin-Felix Otesteanu,Electronica aplicata
+171,Petru Papazian,Electronica aplicata
+172,Ion-Rares Stanciu,Electronica aplicata
+173,Mircea Tomoroga,Electronica aplicata
+174,Mircea Gurbina,Electronica aplicata
+175,Ramona Mutiu,Electronica aplicata
+176,Prof.dr.ing. Liviu BERETEU,Mecanica
+177,Nicolae Herisanu,Mecanica
+178,Conf.dr.ing. Karoly MENYHARDT,Mecanica
+179,Conf.dr.ing. Dan Ioan STOIA,Mecanica
+180,Sl.dr.ing. Ramona NAGY,Mecanica
+181,Sl.dr.ing. Lucian RUSU,Mecanica
+182,Sl.dr.ing. Dorin SIMOIU,Mecanica
+183,Sl.dr.ing. Alin TOTOREAN,Mecanica
+184,Sl.dr.ing. Cosmina VIGARU,Mecanica
+185,As.dr.ing. Cristina OPRITESCU,Mecanica
+186,Prof.dr.ing. Ion Boldea,Inginerie electrica
+187,Prof.dr.ing. Dorin Popovici,Inginerie electrica
+188,Prof.dr.ing. Ioan ?ora,Inginerie electrica
+189,Prof.dr.ing. Marius Biriescu,Inginerie electrica
+190,Prof.dr.ing. Nicolae Muntean,Inginerie electrica
+191,Prof.dr.ing. Sorin Mu?uroi,Inginerie electrica
+192,Prof.dr.ing. Lucian-Nicolae Tutelea,Inginerie electrica
+193,Prof.dr.ing. ?tefan Bartzer,Inginerie electrica
+194,Prof.dr.ing. Marius Babescu,Inginerie electrica
+195,Conf.dr.ing. Ioan Ghiur,Inginerie electrica
+196,Conf.dr.ing. Alexandru Hede?,Inginerie electrica
+197,Conf.dr.ing. Dan Nicoar?,Inginerie electrica
+198,Conf.dr.ing. Alin Arge?eanu,Inginerie electrica
+199,Conf.dr.ing. Cristian-Vasile Lascu,Inginerie electrica
+200,Conf.dr.ing. Ciprian ?orƒndaru,Inginerie electrica
+201,?.l.dr.ing. Marcus Svoboda,Inginerie electrica
+202,?.l.dr.ing. Mar?ian Mo?,Inginerie electrica
+203,?.l.dr.ing. Octavian Cornea,Inginerie electrica
+204,?.l.dr.ing. Codru?a-Mihaela Ancu?i,Inginerie electrica
+205,Asist.dr.ing. Antheia Raicov,Inginerie electrica
+206,Asist. ing. Dan-Cornel Hulea,Inginerie electrica
+207,Asist. ing. Adrian Daniel Martin,Inginerie electrica
+208,Asist. ing. Liviu D?nu? Vitan,Inginerie electrica
+209,Asist.dr.ing. Ana-Adela Popa,Inginerie electrica
+210,Prof. univ. dr. Dejica-Car?i? Daniel Codru?,Comunicare si Limbi Straine
+211,Prof. univ. dr. Gherhe? Vasile,Comunicare si Limbi Straine
+212,Prof. univ. dr. Pop Mirela - Cristina,Comunicare si Limbi Straine
+213,Conf. univ. dr. Cernicova - Buc? Mariana,Comunicare si Limbi Straine
+214,Conf. univ. dr. Suciu Lavinia Maria,Comunicare si Limbi Straine
+215,Conf. univ. Dr. ?imon Simona Cristina,Comunicare si Limbi Straine
+216,Lect. univ. dr. B?ia? Cosmin Constantin,Comunicare si Limbi Straine
+217,Lect. univ. Dr. Cohen-Vida Marion - Ivonne,Comunicare si Limbi Straine
+218,Lect. univ. Dr. Dejica-Car?i? Anca Mihaela,Comunicare si Limbi Straine
+219,Lect. univ. dr. F?rca?iu Marcela - Alina,Comunicare si Limbi Straine
+220,Lect. univ. Dr. Grosseck Maria - Dana,Comunicare si Limbi Straine
+221,Lect. univ. Dr. Kilyeni Annamaria,Comunicare si Limbi Straine
+222,Lect. univ. Dr. Palea Adina Ramona,Comunicare si Limbi Straine
+223,Lect. univ. Dr. Suciu Sorin Florin,Comunicare si Limbi Straine
+224,Lect. univ. Dr. T?nase Delia,Comunicare si Limbi Straine
+225,Asist. univ. dr. Buglea Ruxandra - Oana,Comunicare si Limbi Straine
+226,Asist. univ. dr. Cismariu Liliana,Comunicare si Limbi Straine
+227,Asist. univ. dr. Ciurel Daniel - Liviu,Comunicare si Limbi Straine
+228,Asist. univ. dr. Constantin Elena Claudia,Comunicare si Limbi Straine
+229,Asist. univ. dr. Dasc?lu ? Romi?an Ana - Maria,Comunicare si Limbi Straine
+230,Asist. univ. dr. Ghi?? Roxana Elena,Comunicare si Limbi Straine
+231,Asist. univ. dr. Kriston Andrea,Comunicare si Limbi Straine
+232,Asist. univ. dr. Pele Andreea Florina,Comunicare si Limbi Straine
+233,Asist. univ. dr. Stoian Claudia Elena,Comunicare si Limbi Straine
+234,Asist. univ. dr. Ungureanu-Ruthner Andreea Rodica,Comunicare si Limbi Straine
+235,Asist. univ. dr. Timplaru Adina Florinela,Comunicare si Limbi Straine
+236,Prof.dr.ing. Horia POPA,Management
+237,Prof.dr.ing. Constantin DUMITRESCU,Management
+238,Prof.dr.ing. Monica IZVERCIAN,Management
+239,Prof.dr. Vasile DURAN,Management
+240,Prof.ing.dr.ec. Marian MOCAN,Management
+241,Prof.dr.ing. Anca DR?GHICI,Management
+242,Prof.dr.ing. Gabriela PRO?TEAN,Management
+243,Prof.dr.ec. Claudiu ALBULESCU,Management
+244,"Prof.dr.ing.,ec. Matei T?M??IL?",Management
+245,Conf.dr.ing. Ilie T?UCEAN,Management
+246,Conf.dr.ing. Traian MU?IU,Management
+247,Conf.dr.ing. P?un ALAN,Management
+248,Conf.dr. Nicolae COCIU,Management
+249,Conf.dr.ing. Adrian PUGNA,Management
+250,Conf.dr.ing. George BELGIU,Management
+251,Conf.dr. Eugenia GRECU,Management
+252,Conf.dr.ing. Larisa IVA?CU,Management
+253,S.l.dr.ing. Tiberiu OAN?,Management
+254,S.l.dr.ing. Mihai MI?C?,Management
+255,S.l .dr.ing. Ana Gabriela STR?U?I,Management
+256,S.l.dr.ing. Monica TION,Management
+257,S.l.dr. Mihaela VARTOLOMEI,Management
+258,S.l.dr.ec. Alin ARTENE,Management
+259,S.l.dr.ing. Mircea NEGRU?,Management
+260,S.l.dr.Caius LUMINOSU,Management
+261,S.l.dr. Liana PATER,Management
+262,S.l.dr.ing. Andreea MIH?RTESCU,Management
+263,S.l.dr. Dan DURAN,Management
+264,S.l.dr. Sabina POTRA,Management
+265,S.l.dr.ing. Cella BUCIUMAN,Management
+266,S.l.ec.dr. ?erban MICLEA,Management
+267,S.l.dr.ing. Attila TURI,Management
+268,As.dr.ing. Olivia GIUCA,Management
+269,As.dr.Andra DIACONESCU,Management
+270,Conf. dr. DRAGOMIRÿGabriel-Mugurel,Pregatirea personalului didactic
+271,Prof. dr. habil. MAZILESCUÿCrisanta-Alina,Pregatirea personalului didactic
+272,Lector dr. POPESCU-MITROI Maria-Monica,Pregatirea personalului didactic
+273,Lector dr. TODORESCUÿLiliana-Lumini?a,Pregatirea personalului didactic
+274,Lector dr. VRGOVICIÿSvetlana-Maria,Pregatirea personalului didactic
